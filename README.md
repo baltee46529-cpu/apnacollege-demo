@@ -3,5 +3,4 @@ This is my first Git hub repositery
 <br/>
 author- Hoor 
 <br/>
-age-13 years
-git
+age-13 years old
